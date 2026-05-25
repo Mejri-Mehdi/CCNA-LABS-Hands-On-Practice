@@ -25,3 +25,5 @@ In this lab, I explored how switches learn MAC addresses and forward frames, sta
 - **Dynamic MAC entries** can be cleared for troubleshooting or security exercises.
 
 This lab deepened my understanding of how Layer 2 switching works, from flooding to forwarding, and how to manage the MAC address table.
+
+<img width="2497" height="668" alt="Topoloygy Screenshot" src="https://github.com/user-attachments/assets/eee64047-5756-4750-b740-22aeac96cb76" />
