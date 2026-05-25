@@ -18,3 +18,5 @@ Key constraints:
 - **Large‑scale connections** – connecting dozens of switches to a single router reinforces structured cabling and port management.
 
 This lab strengthened my understanding of physical layer requirements and proper cable choice in real‑world networks.
+
+<img width="1673" height="645" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/d1f0604c-7f9d-4f46-9b60-5d7f7d0548c4" />
