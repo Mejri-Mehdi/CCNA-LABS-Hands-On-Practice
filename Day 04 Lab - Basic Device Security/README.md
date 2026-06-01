@@ -28,3 +28,5 @@ In this lab, I configured basic security settings on a router and switch using t
 - Always **save your config** with `write memory` or `copy running-config startup-config`.
 
 This lab reinforced the importance of strong password storage and proper device hardening.
+
+<img width="2428" height="687" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/45cfd0c0-dd76-456c-bf90-bcec8186dc79" />
