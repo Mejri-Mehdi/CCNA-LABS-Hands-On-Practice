@@ -34,3 +34,6 @@ Reply from 182.98.0.1: bytes=32 time=1ms TTL=127
 - **Ping with TTL=127** indicates one router hop (TTL starts at 128 on Windows, decreased by 1 per router).
 
 This lab reinforced basic router configuration, interface management, and end‑to‑end IP connectivity across multiple subnets.
+
+<img width="1393" height="720" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/f824e6f5-410b-4485-9bf2-8e9a58b538e0" />
+
