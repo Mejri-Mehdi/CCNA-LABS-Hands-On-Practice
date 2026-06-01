@@ -29,3 +29,5 @@ Reply from 172.16.0.4: bytes=32 time<1ms TTL=128
 - **`shutdown` / `no shutdown`** controls administrative state – unused ports should remain `shutdown`.
 
 This lab reinforced professional interface hygiene: correct speed/duplex, clear descriptions, and disabled unused ports.
+
+<img width="1347" height="735" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/ccb5157a-820a-463f-a6d0-70bd9e2d6731" />
