@@ -26,4 +26,4 @@ Efficient cabling – using the automatic connection feature saves time and avoi
 
 This hands‑on practice strengthened my understanding of how small enterprise networks are built in a simulator before moving to real hardware.
 
-![Topology](topology.png)
+<img width="2530" height="712" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/408585c2-6ed8-4221-b17c-de3f84b8d7ae" />
