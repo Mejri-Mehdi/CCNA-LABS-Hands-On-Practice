@@ -20,3 +20,5 @@ In this lab, I used **Packet Tracer’s Simulation Mode** to analyze network tra
 - Releasing/renewing an IP is a quick way to generate real application‑layer traffic for study.
 
 This lab reinforced how the OSI model applies in practice, especially the difference between lower‑layer switching and upper‑layer protocols like DHCP.
+
+<img width="2530" height="712" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/a9153c03-e744-4a6f-936a-f2b55b0977d6" />
