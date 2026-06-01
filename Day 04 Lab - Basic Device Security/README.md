@@ -1,5 +1,3 @@
-# Cisco Device Security Lab – Hostname, Passwords & Encryption
-
 ## What I Learned
 
 In this lab, I configured basic security settings on a router and switch using the Cisco IOS CLI.
