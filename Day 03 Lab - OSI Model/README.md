@@ -21,4 +21,4 @@ In this lab, I used **Packet Tracer’s Simulation Mode** to analyze network tra
 
 This lab reinforced how the OSI model applies in practice, especially the difference between lower‑layer switching and upper‑layer protocols like DHCP.
 
-<img width="2530" height="712" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/a9153c03-e744-4a6f-936a-f2b55b0977d6" />
+<img width="2555" height="721" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/25b6f609-cb59-4e4f-82ee-08beb53cea2f" />
