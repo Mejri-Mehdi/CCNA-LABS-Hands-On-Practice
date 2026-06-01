@@ -1,5 +1,3 @@
-# Network Topology Lab – Packet Tracer
-
 ## What I Learned
 
 In this lab, I recreated a network topology shown in the **Day 1 video** (timestamp `16:40`).  
