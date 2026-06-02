@@ -36,3 +36,5 @@ Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
 - One‑way routing problems cause 50% loss; fixing return routes restores 0% loss.
 
 This lab reinforced my ability to diagnose and resolve static routing issues quickly.
+
+<img width="1377" height="713" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/4c770a23-20bd-432f-aa33-30cd6fe54415" />
