@@ -43,3 +43,5 @@ Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
 - Switches at Layer 2 don’t need IP configuration for basic connectivity.
 
 This lab reinforced how static routing connects multiple subnets and why both directions are essential for ping replies.
+
+<img width="1409" height="733" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/9162739f-8bd1-41da-a1f1-fbe32ed7cefa" />
