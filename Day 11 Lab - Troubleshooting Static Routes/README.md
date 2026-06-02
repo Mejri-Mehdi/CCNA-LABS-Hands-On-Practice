@@ -2,7 +2,7 @@
 
 In this lab, I started with a broken network where **PC1 could not ping PC2**. Each router had **exactly one misconfiguration**. My job was to find and fix both.
 
-### Initial symptom
+### Initial symptom 
 
 C:>PING 192.168.3.1
 Reply from 192.168.3.1: bytes=32 time=1ms TTL=125
