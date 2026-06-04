@@ -29,3 +29,6 @@ In this lab, I configured three routers (R1, R2, R3) and two switches to enable 
 - **Use `show ip route` to verify static routes** and `show ip interface brief` to check interface status.
 
 This lab extended my static routing skills to a three‑router topology, reinforcing the need for explicit routes in each direction.
+
+<img width="1778" height="723" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/e4698875-c465-4131-adb6-6232f9182911" />
+
