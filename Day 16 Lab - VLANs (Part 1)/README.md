@@ -35,4 +35,4 @@ In this lab, I implemented **legacy inter‑VLAN routing** using three separate 
 
 This lab reinforced how VLANs + router interfaces enable inter‑VLAN communication while keeping broadcast traffic isolated.
 
-<img width="832" height="652" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/48e1bec9-df3a-4e49-8789-75765aacd35f" />
+<img width="832" height="652" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/c4481339-2481-4460-b5d4-dc87c5638505" />
