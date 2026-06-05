@@ -34,3 +34,5 @@ In this lab, I implemented **legacy inter‑VLAN routing** using three separate 
 - **Simulation Mode** visually proves that a broadcast ping is not forwarded to other VLANs without a router’s help (and a router does not forward layer‑2 broadcasts).
 
 This lab reinforced how VLANs + router interfaces enable inter‑VLAN communication while keeping broadcast traffic isolated.
+
+<img width="832" height="652" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/48e1bec9-df3a-4e49-8789-75765aacd35f" />
