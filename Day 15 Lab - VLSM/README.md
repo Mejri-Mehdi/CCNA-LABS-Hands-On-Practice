@@ -59,3 +59,5 @@ All PCs can ping each other across all four LANs.
 - **VLSM** (Variable Length Subnet Mask) allows efficient use of address space by assigning different mask sizes to different LANs.
 
 This lab strengthened my ability to design, subnet, and route a small multi‑LAN network from scratch.
+
+<img width="1031" height="674" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/fa92b626-3abd-43a1-8a40-3fd3bf132ee0" />
