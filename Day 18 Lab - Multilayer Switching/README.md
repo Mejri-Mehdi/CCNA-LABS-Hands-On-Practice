@@ -40,3 +40,5 @@ In this lab, I replaced the **Router‑on‑a‑stick (ROAS)** configuration bet
 - **Last usable address** convention applies to SVIs as the default gateway for hosts.
 
 This lab transitioned my understanding from external router‑based inter‑VLAN routing to internal switching‑based routing using SVIs.
+
+<img width="927" height="669" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/ea966e68-e8c1-4ecd-93c3-ecabaabcbc24" />
