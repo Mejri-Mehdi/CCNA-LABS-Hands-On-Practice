@@ -37,3 +37,5 @@ In this lab, I configured **inter‑VLAN routing using a single router physical 
 - Without the trunk between switches, VLANs would be isolated to each switch; the trunk extends them across both.
 
 This lab deepened my understanding of VLAN trunking, router subinterfaces, and efficient inter‑VLAN design.
+
+<img width="862" height="645" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/3de358fd-5499-47f5-9c03-ce337024e17f" />
