@@ -50,3 +50,5 @@ Trunk links connect the switches (DTP disabled, manual trunk configuration).
 - `show interfaces trunk` confirms trunk status; `show vtp status` shows VTP mode and revision number.
 
 This lab gave me hands‑on experience with VTP behaviour, its limitations, and why transparent mode is often preferred for safety.
+
+<img width="804" height="635" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/65599c60-e16a-424f-be5e-50c1c66fd2c9" />
