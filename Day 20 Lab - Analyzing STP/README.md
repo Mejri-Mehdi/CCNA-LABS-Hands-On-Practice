@@ -51,3 +51,5 @@ From the handwritten notes in the image:
 - Turning off link lights in Packet Tracer helps focus on logical STP roles without visual cable distractions.
 
 This lab reinforced how STP prevents Layer 2 loops and which ports end up blocking.
+
+<img width="857" height="641" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/54d6a24b-0f9e-4305-b6f3-91f8a41f080a" />
