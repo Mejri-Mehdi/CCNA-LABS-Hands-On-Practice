@@ -43,3 +43,5 @@ In this lab, I worked with a network of four switches (SW1, SW2, SW3, SW4) runni
 - **BPDU Guard** shuts down a PortFast port if a BPDU arrives – protects against accidental switch connections.
 
 This lab gave me fine‑grained control over STP behaviour and enhanced network stability and security.
+
+<img width="626" height="615" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/7eb00135-9e94-4718-977e-80b79fff6b45" />
