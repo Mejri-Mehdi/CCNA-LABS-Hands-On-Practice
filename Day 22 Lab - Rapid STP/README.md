@@ -41,3 +41,5 @@ Bridge priorities and MAC addresses (as shown in the image):
 - Always confirm STP topology with `show spanning-tree` and `show spanning-tree interface detail`.
 
 This lab deepened my understanding of STP edge cases and RSTP optimisation.
+
+<img width="771" height="645" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/8fe3684f-4524-42f7-adfb-7f68d0df932c" />
