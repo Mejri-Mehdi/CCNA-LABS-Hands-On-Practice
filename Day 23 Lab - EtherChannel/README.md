@@ -52,3 +52,5 @@ End host and SVI IP addresses were **pre‑configured**.
 - After changing load‑balancing, no interface reset is needed – it takes effect immediately.
 
 This lab gave me hands‑on experience with link aggregation, different negotiation protocols, and fine‑tuning EtherChannel performance.
+
+<img width="894" height="627" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/0df59452-3aa3-47ba-82dc-dc3845f9b24e" />
