@@ -1,4 +1,4 @@
-## What I Learned
+## What I Learned 
 
 In this lab, I analyzed an existing OSPF network and then configured **floating static routes** as backup paths in case the primary link between R1 and R2 failed.
 
