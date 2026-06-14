@@ -38,3 +38,5 @@ show ip route eigrp
 show ip route 192.168.4.0
 
 This lab deepened my understanding of EIGRP’s advanced metric‑based load balancing.
+
+<img width="1003" height="720" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/68cadaf1-4b6d-47b8-bc98-0e5324a4809d" />
