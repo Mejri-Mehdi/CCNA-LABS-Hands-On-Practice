@@ -13,7 +13,7 @@ End host and SVI IP addresses were **pre‑configured**.
 
 ### Tasks performed
 
-1. **LACP EtherChannel (ASW1 ↔ DSW1)**  
+1. **LACP EtherChannel (ASW1 ↔ DSW1)** 
    - Created port‑channel interface: `interface port-channel 1`  
    - Set mode `trunk` on the port‑channel  
    - On physical interfaces: `channel-group 1 mode active` (LACP active)  
