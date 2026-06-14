@@ -40,3 +40,5 @@ In this lab, I analyzed an existing OSPF network and then configured **floating 
   - `ping` – to confirm connectivity after failover.
 
 This lab demonstrated how to provide simple backup connectivity without dynamic routing reconvergence delays.
+
+<img width="821" height="696" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/f1a4e8cb-1032-453d-a1d4-848174f478c7" />
