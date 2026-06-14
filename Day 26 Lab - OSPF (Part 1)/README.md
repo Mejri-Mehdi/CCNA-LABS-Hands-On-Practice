@@ -51,3 +51,5 @@ show ip ospf border-routers
 show ip ospf interface
 
 This lab demonstrated how to connect an OSPF network to the Internet using an ASBR and default route redistribution.
+
+<img width="916" height="628" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/f6a3332d-c3e0-4809-9b7f-28e98eec510f" />
