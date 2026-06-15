@@ -39,3 +39,5 @@ In this lab, I started with a **pre‑configured OSPF network** (IP addresses an
 - **`show ip ospf database`** is a powerful command to understand the full topology and LSA types.
 
 This lab sharpened my systematic troubleshooting skills for OSPF networks.
+
+<img width="1081" height="676" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/c934139a-fc06-48f9-8f86-f7b838923e9c" />
