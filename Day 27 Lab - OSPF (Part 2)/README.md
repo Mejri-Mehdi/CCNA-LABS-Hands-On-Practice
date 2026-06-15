@@ -1,5 +1,3 @@
-# OSPF Lab – Reference Bandwidth, ASBR Default Route & Hello Messages – Packet Tracer
-
 ## What I Learned
 
 In this lab, I configured OSPF across multiple routers (R1, R2, R3, R4) in Area 0, set the reference bandwidth so FastEthernet interfaces have a cost of 100, and made R1 an ASBR injecting a default route. I also analyzed OSPF Hello messages using Simulation Mode.
@@ -67,3 +65,5 @@ show ip route ospf
 show ip route 0.0.0.0
 
 This lab deepened my understanding of OSPF cost tuning, passive interfaces, default route redistribution, and the content of OSPF Hello messages.
+
+<img width="856" height="701" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/7f4cb3ca-f284-4710-9354-ea60c76f272a" />
