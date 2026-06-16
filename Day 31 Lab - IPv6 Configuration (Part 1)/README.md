@@ -52,3 +52,5 @@ ping 2001:DB8:0:2::2
 ping 192.168.2.2
 
 This lab introduced IPv6 addressing, configuration, and dual‑stack operation in a simple routed network.
+
+<img width="527" height="665" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/8260921a-5539-4aa2-bc20-a8d121a0c19c" />
