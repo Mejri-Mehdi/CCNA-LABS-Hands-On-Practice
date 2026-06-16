@@ -51,3 +51,5 @@ show ipv6 route
 ping 2001:db8:0:2::2
 
 This lab deepened my understanding of EUI‑64 addressing, link‑local usage, and IPv6 static routing.
+
+<img width="1055" height="658" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/4a78f204-54ab-4504-abf3-8fd8bef3f532" />
