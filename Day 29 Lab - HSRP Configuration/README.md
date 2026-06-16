@@ -46,3 +46,6 @@ show standby
 show ip arp
 
 This lab demonstrated how HSRP provides seamless gateway failover and load‑sharing (if multiple groups are configured).
+
+<img width="890" height="707" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/10eb3d7c-b3ba-4cce-96b0-e51149987d45" />
+
