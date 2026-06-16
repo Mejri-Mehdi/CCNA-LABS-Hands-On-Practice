@@ -1,5 +1,3 @@
-# IPv6 Dual‑Stack Lab – Packet Tracer
-
 ## What I Learned
 
 In this lab, I took an existing IPv4 network and added IPv6 addressing to create a **dual‑stack** network (IPv4 and IPv6 running simultaneously). All IPv4 configurations were already complete.
