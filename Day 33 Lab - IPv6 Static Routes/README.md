@@ -51,3 +51,5 @@ show ipv6 route
 ping 2001:db8:0:3::2
 
 This lab demonstrated IPv6 autoconfiguration and resilient routing with static backups.
+
+<img width="820" height="592" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/7f2db37a-8ee3-4416-a015-9bdbf7e1b0ce" />
