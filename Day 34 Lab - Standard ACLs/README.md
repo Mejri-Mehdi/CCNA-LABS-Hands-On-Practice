@@ -92,3 +92,5 @@ show ip ospf neighbor
 ping <destination_IP>
 
 This lab reinforced access control implementation with both numbered and named standard ACLs in a routed OSPF network.
+
+<img width="1212" height="672" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/e0db75c3-e256-4eb3-ad83-00d9569d3437" />
