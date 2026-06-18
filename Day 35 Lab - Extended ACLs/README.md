@@ -69,3 +69,5 @@ show run access-list
 ping <destination_IP>
 
 This lab gave me hands‑on experience with extended ACLs to implement precise security policies in a routed network.
+
+<img width="1370" height="648" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/bdfd35fa-2f44-483c-84c4-05dd788fe89d" />
