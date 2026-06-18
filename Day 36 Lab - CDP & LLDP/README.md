@@ -57,3 +57,5 @@ show lldp neighbors detail
 show lldp
 
 This lab reinforced the importance of discovery protocols, their security implications, and the transition from proprietary CDP to standard LLDP.
+
+<img width="966" height="662" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/9fed7d00-0e3c-4c2b-9648-b811514afb3c" />
