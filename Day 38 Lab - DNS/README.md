@@ -42,3 +42,5 @@ ping youtube.com
 nslookup youtube.com
 
 This lab introduced DNS configuration and its role in network communication.
+
+<img width="1120" height="661" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/92896b1b-47ab-4a41-9489-4c3001ae801c" />
