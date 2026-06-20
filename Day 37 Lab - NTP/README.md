@@ -45,3 +45,5 @@ show ntp associations
 show clock detail
 
 This lab demonstrated how to set up hierarchical time synchronisation with authentication in a routed network.
+
+<img width="934" height="704" alt="Toplogy Screenshot" src="https://github.com/user-attachments/assets/65b515f2-22bb-4490-8350-02cad4e10ebc" />
