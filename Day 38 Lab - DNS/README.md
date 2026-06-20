@@ -5,7 +5,7 @@ In this lab, I configured a **DNS (Domain Name System) server** to provide name�
 ### Network overview
 
 - One **DNS Server** (`Server-PT`) with the domain name **`youtube.com`**.
-- Multiple **clients** (Server‑PT devices) with IP addresses `1.1.1.1`, `1.2`, `1.3`, etc.
+- Multiple **clients** (Server‑PT devices) with IP addresses `1.1.1.1`, `192.168.0.1`, `192.168.0.2`, etc.
 - All devices connected to a switch (`2960-24TT`).
 
 ### Tasks performed
@@ -15,8 +15,8 @@ In this lab, I configured a **DNS (Domain Name System) server** to provide name�
    - Enabled DNS service: **Services → DNS → On**.
    - Added **A (Address) Records** mapping each client hostname to its IP address:
      - `1.1.1.1` → `1.1.1.1`
-     - `1.2` → `1.2`
-     - `1.3` → `1.3`
+     - `192.168.0.1` → `PC1`
+     - `192.168.0.2` → `PC2`
      - ... and so on for all clients.
 
 2. **Configured DNS on each client**:
@@ -26,7 +26,7 @@ In this lab, I configured a **DNS (Domain Name System) server** to provide name�
 3. **Tested DNS resolution**:
    - From any client, used `nslookup <hostname>` (if available) or `ping <hostname>` to verify resolution.
    - Example: `ping youtube.com` should resolve to the DNS server's IP address and respond.
-   - Also tested resolving other hostnames like `1.2`, `1.3`, etc.
+   - Also tested resolving other hostnames like `PC1`, `PC2`, etc.
 
 ### Key takeaways
 
