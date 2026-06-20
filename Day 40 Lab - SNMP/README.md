@@ -53,3 +53,5 @@ show snmp
 show running-config | include snmp
 
 This lab introduced SNMP as a powerful network management tool, even with Packet Tracer's limitations.
+
+<img width="859" height="671" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/3d256c81-d130-485a-87ae-d744a8e2839d" />
