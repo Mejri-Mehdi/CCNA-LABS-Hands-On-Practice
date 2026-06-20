@@ -68,3 +68,6 @@ show ip dhcp pool
 show ip interface brief
 
 This lab demonstrated DHCP server configuration, client addressing, and relay agent functionality in a multi‑subnet network.
+
+
+<img width="1053" height="645" alt="Topology Screenshot " src="https://github.com/user-attachments/assets/c409fba9-4888-49ba-addc-0f74c8802375" />
