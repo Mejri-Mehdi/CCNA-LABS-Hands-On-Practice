@@ -1,5 +1,3 @@
-# SSH & Remote Access Security Lab – Packet Tracer
-
 ## What I Learned
 
 In this lab, I configured a newly added switch (SW2) with **console line security** and **remote access via SSH**. I also restricted SSH access to only PC1 using an ACL.
@@ -107,3 +105,5 @@ show running-config | include ssh
 show users
 
 This lab demonstrated how to securely configure a switch for remote management using SSH, with strict access control.
+
+<img width="908" height="667" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/94bdf077-9a47-4460-b5a5-1efbdd13668f" />
