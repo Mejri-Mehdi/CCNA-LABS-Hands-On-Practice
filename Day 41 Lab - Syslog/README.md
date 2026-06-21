@@ -69,4 +69,4 @@ terminal monitor (on VTY session)
 
 This lab demonstrated the importance of logging and how to direct logs to different destinations for effective network management.
 
-<img width="918" height="704" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/4a6babf3-96a2-4e45-85a7-3d84f72a4960" />
+<img width="918" height="704" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/9656e672-9a24-4a77-9f43-279c8ceb1e13" />
