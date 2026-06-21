@@ -68,3 +68,5 @@ show running-config | include logging
 terminal monitor (on VTY session)
 
 This lab demonstrated the importance of logging and how to direct logs to different destinations for effective network management.
+
+<img width="918" height="704" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/4a6babf3-96a2-4e45-85a7-3d84f72a4960" />
