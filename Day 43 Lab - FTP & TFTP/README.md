@@ -64,3 +64,5 @@ show running-config | include boot system
 dir flash:
 
 This lab introduced IOS file management and upgrade procedures using both TFTP and FTP.
+
+<img width="942" height="541" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/680bb60d-1587-480c-8e2a-5fa39b6e1d54" />
