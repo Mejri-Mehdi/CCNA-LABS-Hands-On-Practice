@@ -57,3 +57,5 @@ show ip interface brief
 ping 8.8.8.8
 
 This lab introduced Static NAT and how it enables private‑to‑public IP translation for Internet access.
+
+<img width="1050" height="580" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/81a86be1-ce36-451d-91b0-f98c3cf17aad" />
