@@ -70,3 +70,5 @@ show access-lists
 ping 8.8.8.8
 
 This lab demonstrated the scalability of PAT over Dynamic NAT and why PAT is commonly used in home/enterprise networks.
+
+<img width="1171" height="674" alt="Topology Screenshot " src="https://github.com/user-attachments/assets/ca069dc7-380d-4321-a9d9-4324b966729d" />
