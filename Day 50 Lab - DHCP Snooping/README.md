@@ -82,3 +82,5 @@ show ip dhcp snooping binding
 show ip dhcp binding
 
 This lab reinforced how DHCP snooping secures the network and why trusted ports are essential for proper DHCP operation.
+
+<img width="1001" height="706" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/914dee5b-cb66-4626-ba28-aa73453f31b1" />
