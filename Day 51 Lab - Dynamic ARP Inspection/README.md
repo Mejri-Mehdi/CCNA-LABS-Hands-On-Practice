@@ -63,3 +63,5 @@ show ip arp inspection interfaces
 show ip arp inspection statistics
 
 This lab introduced critical Layer 2 security features to protect against DHCP and ARP‑based attacks.
+
+<img width="1003" height="677" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/13ee119b-e2b2-4c86-b364-c0cca382271a" />
