@@ -61,4 +61,4 @@ show policy-map
 
 This lab introduced QoS concepts and how to classify, mark, and prioritize traffic in a router.
 
-![Uploading Topology Screenshot.png…]()
+<img width="928" height="637" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/fa8b8bd2-4e5e-4883-964a-5c2b52fc9c70" />
