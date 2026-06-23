@@ -60,3 +60,5 @@ show ip interface brief
 show running-config | include dot1q
 
 This lab demonstrated how to separate data and voice traffic using VLANs and route between them with ROAS.
+
+<img width="1174" height="652" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/90c413cc-73b4-47c1-9eaa-424347565633" />
