@@ -96,3 +96,5 @@ show interfaces status
 show running-config | include port-security
 
 This lab demonstrated practical switch port security configuration and the behaviour of different violation modes in response to MAC address violations.
+
+<img width="914" height="698" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/cd739e95-0fb4-4d00-9ced-238b857ad9a8" />
