@@ -81,3 +81,5 @@ show spanning-tree vlan 20
 show ip interface brief
 
 This lab demonstrated how to align HSRP and STP for optimal traffic flow and redundancy in a multi‑VLAN network.
+
+<img width="864" height="691" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/668347b0-9464-4da0-81ee-fbcb8e97cce0" />
