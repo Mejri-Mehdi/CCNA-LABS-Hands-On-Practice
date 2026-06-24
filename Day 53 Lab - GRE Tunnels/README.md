@@ -1,5 +1,3 @@
-# GRE Tunnel & OSPF over Tunnel Lab – Packet Tracer
-
 ## What I Learned
 
 In this lab, I configured a **GRE (Generic Routing Encapsulation) tunnel** between R1 and R2 across a service provider network, then ran **OSPF over the tunnel** to allow PC1 (Office A) and PC2 (Office B) to communicate.
@@ -81,3 +79,5 @@ show interfaces tunnel 0
 ping 10.0.2.100
 
 This lab introduced GRE tunneling and how to run OSPF over a tunnel for private network interconnection.
+
+<img width="1080" height="693" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/814e69f3-c891-499d-8a12-0b7ffd45012d" />
