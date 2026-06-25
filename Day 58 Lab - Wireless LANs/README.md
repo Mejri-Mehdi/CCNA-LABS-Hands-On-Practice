@@ -84,3 +84,5 @@ In this lab, I accessed the **Wireless LAN Controller (WLC)** GUI via HTTPS, exp
 - **Controller → Interfaces** – verify dynamic interface IP and VLAN assignment.
 
 This lab introduced wireless network management using a centralized controller and Lightweight Access Points.
+
+<img width="818" height="715" alt="Topology Screenshot" src="https://github.com/user-attachments/assets/6fa64ef4-8245-48b7-a4a1-d8249174c581" />
